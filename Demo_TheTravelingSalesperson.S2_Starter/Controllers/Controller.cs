@@ -66,6 +66,7 @@ namespace Demo_TheTravelingSalesperson
 
         /// <summary>
         /// method to manage the application setup and control loop
+        /// 
         /// </summary>
         private void ManageApplicationLoop()
         {
